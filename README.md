@@ -1,4 +1,23 @@
-# alitoken-signin-on-replit
+<div align=center>
+
+# AliToken Signin On Replit
+
+![GitHub release](https://img.shields.io/github/v/release/sxbai/alitoken-signin-on-replit)
+![wakatime](https://wakatime.com/badge/user/92b8bbab-18e1-4e0c-af6d-082cc16c9d8a/project/0547bf5c-f66c-4798-ab89-96ddb017fef7.svg)
+
+项目用于replit自动实现阿里云盘Token刷新+阿里云盘的每日签到活动.  
+
+如果此项目能帮助到你, 欢迎给我一个 Star :star: 这是我持续维护的动力
+
+----
+
+0 成本 | 自动更新 | 支持推送 | 无需维护
+</div>
+
+# 使用说明
+
+一键搭建脚本 (环境选择`Python`)   
+
 ## 阿里云盘随机时间刷新Token+阿里云盘自动签到二合一脚本(测试阶段)
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/alitoken-signin-on-replit/master/install.sh)
